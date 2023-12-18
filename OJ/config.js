@@ -7,6 +7,8 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'm795958405-0544c5481feaf9225d030138',
+    'm795958532-f4d787e7d99e84ca31074062',
+    'm795958539-06d65d35c239019572500fa8',
   ],
 
   // 日志天数
@@ -20,6 +22,14 @@ window.Config = {
     {
       text: 'OJ台湾节点',
       url: 'https://oj.zsccodelnc.cn:11451'
+    },
+    {
+      text: 'OJ深圳节点',
+      url: 'https://oj2.zsccodelnc.cn:19198'
+    },
+    {
+      text: 'OJ樱花映射十堰节点',
+      url: 'https://oj3.zsccodelnc.cn:41118'
     },
   ],
 };
