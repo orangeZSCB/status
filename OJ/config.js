@@ -20,15 +20,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'OJ台湾节点',
-      url: 'https://oj.zsccodelnc.cn:11451'
+      text: 'OJ台湾节点HTTP',
+      url: 'http://oj.zsccodelnc.cn:11451'
     },
     {
-      text: 'OJ深圳节点',
-      url: 'https://oj2.zsccodelnc.cn:19198'
+      text: 'OJ深圳节点HTTP',
+      url: 'http://oj2.zsccodelnc.cn:19198'
     },
     {
-      text: 'OJ樱花映射十堰节点',
+      text: 'OJ樱花映射十堰节点HTTPS',
       url: 'https://oj3.zsccodelnc.cn:41118'
     },
   ],
