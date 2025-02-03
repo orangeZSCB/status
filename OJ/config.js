@@ -6,9 +6,8 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm795958405-0544c5481feaf9225d030138',
-    'm795958532-f4d787e7d99e84ca31074062',
-    'm795958539-06d65d35c239019572500fa8',
+    'm798495351-ef8721b88d8818f86310a3de',
+    'm798495354-bb0f913c5985f24b4af68faf',
   ],
 
   // 日志天数
@@ -20,16 +19,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'OJ台湾节点HTTP',
-      url: 'http://oj.zsccodelnc.cn:11451'
+      text: 'OJ 反代主域名',
+      url: 'https://zsccodelnc.cn'
     },
     {
-      text: 'OJ深圳节点HTTP',
-      url: 'http://oj2.zsccodelnc.cn:19198'
-    },
-    {
-      text: 'OJ樱花映射十堰节点HTTPS',
-      url: 'https://oj3.zsccodelnc.cn:41118'
+      text: 'OJ 根域',
+      url: 'https://dc82d2c3-e027-c787-ee70-22b4dff0f031.ofalias.com:19198/'
     },
   ],
 };
